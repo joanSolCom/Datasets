@@ -60,11 +60,3 @@ SmallEnglishDat
   year={2016}
 }
 
-HateSet
-
-@inproceedings{solerHate,
-  title={HateSet: A New Hate Speech Dataset.},
-  author={Soler-Company, Juan and Wanner, Leo},
-  booktitle={Eleventh International Conference on Language Resources and Evaluation, LREC 2018},
-  year={2018}
-}
