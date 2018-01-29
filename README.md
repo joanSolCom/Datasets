@@ -47,7 +47,7 @@ Literary{American,British}
   title={On the Relevance of Syntactic and Discourse Features for Author Profiling and Identification},
   author={Soler-Company, Juan and Wanner, Leo},
   booktitle={European Chapter of the Association for Computational Linguistics, EACL 2017},
-  pteSet: A New Hate Speech Dataset. Overview and Benchmark Experiments.ages={681--687},
+  pages={681--687},
   year={2017}
 }
 
